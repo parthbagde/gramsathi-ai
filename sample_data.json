@@ -1,0 +1,47 @@
+{
+  "notice": "Illustrative demo categories only. These are not verified scheme records or official benefit claims.",
+  "schemes": [
+    {
+      "id": "edu1",
+      "name": "National Scholarship Discovery",
+      "category": "Education",
+      "audience": "Students",
+      "description": "Starting point to discover scholarship opportunities; verify exact schemes and eligibility on official portals."
+    },
+    {
+      "id": "edu2",
+      "name": "Skill Training Opportunities",
+      "category": "Education",
+      "audience": "Job seekers",
+      "description": "Discovery category for skill development and training programmes."
+    },
+    {
+      "id": "agr1",
+      "name": "Farmer Support Information",
+      "category": "Agriculture",
+      "audience": "Farmers",
+      "description": "Discovery category for official farmer-support information."
+    },
+    {
+      "id": "health1",
+      "name": "Public Health Coverage Guide",
+      "category": "Health",
+      "audience": "Families",
+      "description": "Discovery category for public health coverage information."
+    },
+    {
+      "id": "liv1",
+      "name": "Rural Livelihood Resources",
+      "category": "Livelihoods",
+      "audience": "Families",
+      "description": "Discovery category for rural livelihood resources."
+    },
+    {
+      "id": "liv2",
+      "name": "Employment & Career Services",
+      "category": "Livelihoods",
+      "audience": "Job seekers",
+      "description": "Discovery category for career guidance and employment services."
+    }
+  ]
+}
